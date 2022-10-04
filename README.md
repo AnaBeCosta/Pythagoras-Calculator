@@ -2,6 +2,8 @@
 Site criado para calcular a relação entre os lados de um triângulo retângulo.
 * https://pythagoras-calculator-ana.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/66637302/193723482-cd9978c0-c9a6-460c-b197-17db4cda15f6.png)
+
 
 ### Utilizei
   - Javascript
